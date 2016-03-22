@@ -1,0 +1,19 @@
+{
+  "name": "executor",
+  "version": "1.0.0",
+  "description": "Executes commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acnalesso@yahoo.co.uk",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "body-parser": "^1.15.0",
+    "btoa": "^1.1.2",
+    "express": "^4.13.4",
+    "form-data": "^0.2.0",
+    "request": "^2.69.0"
+  }
+}
